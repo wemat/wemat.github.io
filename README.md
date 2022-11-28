@@ -36,8 +36,13 @@ I developed <a href="https://www.tuoretta.ch/">this</a>  Website. Users can crea
 
 
 ## 5. Mars Lander 
+Scope: Medium-Large
+Tech: Python
 
-I love <a href="https://www.codingame.com/start">CodinGame</a>. 
+I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I begann programming this Site really pushed me to learn more. By now I solved two "very hard" a buch of hard ones and altogether around 40 puzzles. 
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/775979072?h=ec9eaf3a97&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GeneticAlgo.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+One really interesting puzzle is the Mars Lander. The goal of this puzzle is to safely land a spaceship on Mars. 
+To solve this I programmed a genetic algorithm. But first I had to create a physics simulation of the rockets trajectory. It took me several weeks to make it work and I still will have to optimize the algorithm's speed to crack all the tests :) 
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/775979072?h=ec9eaf3a97&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:60%;height:60%;" title="GeneticAlgo.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
