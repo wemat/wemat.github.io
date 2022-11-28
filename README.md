@@ -10,8 +10,7 @@ Tech: Rest API, Python with Dash, Plotly, Pandas,Requests
 
 I use the Strava App when I go for a run or mountain biking. In this project I pull my data from the Rest API and use it to create a sports-analytics dashboard.
 
-https://sport-analytics-wemat.herokuapp.com/
-
+<a href="https://sport-analytics-wemat.herokuapp.com">Dash Analytics App</a>
 
 ## 2. Power BI Something
 Scope: Mini
