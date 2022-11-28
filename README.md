@@ -2,7 +2,7 @@
 
 I am intersted in data, programming, solving problems and create something from scratch. The way to do this things is by learning by doing. So here I will link a few selected projects that I worked on. 
 
-The scope of the projects vary from mini (1 day or less), medium (1-3 weeks) to large (several months). 
+The scope of the projects vary from small (1 day or less), medium (1-3 weeks) to large (several months). 
 
 ## 1. Sports Analytics 
 Scope: Medium 
@@ -14,7 +14,7 @@ I use the Strava App when I go for a run or mountain biking. In this project I p
 Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a> 
 
 ## 2. Real Time Production Dashboard in Power BI 
-Scope: Mini
+Scope: Small
 Tech: Python, Power BI
 I am using python to push the Data to the REST API of Power BI. 
 The data is generated in real time by a simple simulation of a machine's productivity. 
@@ -32,8 +32,12 @@ descripition and code coming soon.
 Scope: Large
 Tech: Python, Django, MySQL, Bootstrap, HTML, CSS
 
-I developed <a href="www.tuoretta.ch">this</a>  Website. Users can create an account and make reservations. There is a calendar that shows the bookings without the names (public) and with the names for the logged in users. 
+I developed <a href="https://www.tuoretta.ch/">this</a>  Website. Users can create an account and make reservations. There is a calendar that shows the bookings without the names (public) and with the names for the logged in users. 
 
 
+## 5. Mars Lander 
 
+I love <a href="https://www.codingame.com/start">CodinGame</a>. 
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/775979072?h=ec9eaf3a97&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GeneticAlgo.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
