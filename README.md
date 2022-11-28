@@ -11,8 +11,9 @@ Tech: Rest API, Python with Dash, Plotly, Pandas,Requests
 I use the Strava App when I go for a run or mountain biking. In this project I pull my data from the Rest API and use it to create a sports-analytics dashboard.
 
 <a href="https://sport-analytics-wemat.herokuapp.com">Dash Analytics App</a>
+Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a> 
 
-## 2. Power BI Something
+## 2. Real Time Production Dashboard in Power BI 
 Scope: Mini
 Tech: Python, Power BI
 I am using python to push the Data to the REST API of Power BI. 
@@ -25,18 +26,14 @@ The data is generated in real time by a simple simulation of a machine's product
 Scope: Medium
 Tech: Python with Pytorch, Pandas 
 
+descripition and code coming soon. 
 
 ## 4. Webapplication - Website and Reservation Tool 
 Scope: Large
 Tech: Python, Django, MySQL, Bootstrap, HTML, CSS
 
-I developed this (www.tuoretta.ch) Website.
+I developed <a href="www.tuoretta.ch">this</a>  Website. Users can create an account and make reservations. There is a calendar that shows the bookings without the names (public) and with the names for the logged in users. 
 
 
-
-follow me on
-
-kaggle
-CodinGame 
 
 
