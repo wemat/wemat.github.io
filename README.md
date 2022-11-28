@@ -19,9 +19,7 @@ Tech: Python, Power BI
 I am using python to push the Data to the REST API of Power BI. 
 The data is generated in real time by a simple simulation of a machine's productivity. 
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=gaC_FTTJbC0">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gaC_FTTJbC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 3. Pytorch Implementation of the famous Paper 'Attention is all you need'
