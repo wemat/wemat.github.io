@@ -39,7 +39,7 @@ I developed <a href="https://www.tuoretta.ch/">this</a>  Website. Users can crea
 Scope: Medium-Large
 Tech: Python
 
-I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I begann programming this Site really pushed me to learn more. By now I solved two "very hard" a buch of hard ones and altogether around 40 puzzles. 
+I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I begann programming this Site really pushed me to learn more. By now I solved two "very hard-", a buch of "hard-" and altogether around 40 puzzles. 
 
 One really interesting puzzle is the Mars Lander. The goal of this puzzle is to safely land a spaceship on Mars. 
 To solve this I programmed a genetic algorithm. But first I had to create a physics simulation of the rockets trajectory. It took me several weeks to make it work and I still will have to optimize the algorithm's speed to crack all the tests :) 
