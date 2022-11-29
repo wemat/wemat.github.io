@@ -1,11 +1,11 @@
-# Wemat's private Projects
+# From Scratch Projects 
 
-I like data, programming, solving problems and create something from scratch. Learning by doing is my approach. So here are  a few selected projects that I worked on. 
+I like data, programming, solving problems and to create something from scratch. Learning by doing is my approach. So here are a few selected projects that I worked on. 
 
 The scope of the projects vary from small (1 day or less), medium (1-3 weeks) to large (several months). 
 
 ## 1. Sports Analytics 
-Scope: Medium 
+Scope: Medium\ 
 Tech: Rest API, Python with Dash, Plotly, Pandas,Requests
 
 I use the Strava App when I go for a run or mountain biking. In this project I pull the data from the Rest API and use it to create a sports-analytics dashboard.
@@ -14,7 +14,7 @@ I use the Strava App when I go for a run or mountain biking. In this project I p
 Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a> 
 
 
-<div style="padding-bottom:70%; position:relative; display:block; width: 100%">
+<div style="padding-bottom:65%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
     src="https://sport-analytics-wemat.herokuapp.com"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
@@ -22,8 +22,9 @@ Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a>
 </div>
 
 ## 2. Real Time Production Dashboard in Power BI 
-Scope: Small
+Scope: Small\
 Tech: Python, Power BI
+
 I am using python to push the Data to the REST API of Power BI. 
 The data is generated in real time by a simple simulation of a machine's productivity. 
 
@@ -31,20 +32,20 @@ The data is generated in real time by a simple simulation of a machine's product
 
 
 ## 3. Pytorch Implementation of the famous Paper 'Attention is all you need'
-Scope: Medium
+Scope: Medium\
 Tech: Python with Pytorch, Pandas 
 
 > descripition and code coming soon. 
 
 ## 4. Webapplication - Website and Reservation Tool 
-Scope: Large
+Scope: Large\
 Tech: Python, Django, MySQL, Bootstrap, HTML, CSS
 
 I developed <a href="https://www.tuoretta.ch/">this</a>  website for a holiday appartment. Users can create an account and make reservations. I developed a calendar widget from scratch that shows the availability to the website visitors and the bookings with the names to the logged in users. 
 
 
 ## 5. Mars Lander 
-Scope: Medium-Large
+Scope: Medium-Large\
 Tech: Python
 
 I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I begann programming this Site really pushed me to learn more. By now I solved two "very hard-", a buch of "hard-" and altogether around 40 puzzles. Even though I am not a professional developer it is a lot of fun to implement an algorithm from scratch :)
