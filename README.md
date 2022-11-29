@@ -3,9 +3,9 @@
 I like data, programming, solving problems and to create something from scratch. Learning by doing is my approach. So here are a few selected projects that I worked on. 
 
 The scope of the projects vary from:
--small (1 day or less)
--medium (1-3 weeks)
--large (several months). 
+- small (1 day or less)
+- medium (1-3 weeks)
+- large (several months). 
 
 I am open to collaberate on a cool project. Contact me: wemat.web@gmail.com
 
