@@ -7,8 +7,8 @@ The scope of the projects vary from small (1 day or less), medium (1-3 weeks) to
 ## 1. Sports Analytics 
 Scope: Medium\
 Tech: Rest API, Python with Dash, Plotly, Pandas,Requests\
-Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a> 
-<a href="https://sport-analytics-wemat.herokuapp.com">Dash Analytics App</a>
+Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a>\
+The App: <a href="https://sport-analytics-wemat.herokuapp.com">Dash Sports Analytics</a>
 
 I use the Strava App when I go for a run or mountain biking. In this project I pull the data from the Rest API and use it to create a sports-analytics dashboard.
 
