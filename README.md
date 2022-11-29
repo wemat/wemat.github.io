@@ -1,4 +1,4 @@
-#Projects from Scratch
+# Projects from Scratch
 
 I like data, programming, solving problems and to create something from scratch. Learning by doing is my approach. So here are a few selected projects that I worked on. The scope of the projects vary from *small* (1 day or less), *medium* (1-3 weeks) to *large* (several months). 
 
@@ -12,7 +12,7 @@ I am open to collaberate on a cool project. Contact me: wemat.web@gmail.com
 
 I use Strava when I go for a run or mountain biking. In this project I pulled the data from the Rest API and developed a dashboard with Dash. My opinion of Dash? In Power BI (I have worked a lot with it) you can click together a good looking dashboard fairly quickly. With Dash it takes a while to set up something seemingly simple (like this project here). There is no GUI. Everything has to be coded. But then again in Power BI as soon as the requirements are a bit non-standard, it can become punishing. With Dash we have all the power of python and it's great libaries. So even complex machine-learning use-cases can be combined with Dash seamlessly. 
 
-At the beginning of the project I wanted to gain an overview. <a href="https://github.com/wemat/StravaAnalytics/blob/main/analytics/strava_api.ipynb">Here</a> is a jupyter notebook with the explanatory data analysis.
+At the beginning of the project I wanted to get an overview. <a href="https://github.com/wemat/StravaAnalytics/blob/main/analytics/strava_api.ipynb">Here</a> is a jupyter notebook with the explanatory data analysis.
 
 <div style="padding-bottom:65%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
@@ -58,5 +58,5 @@ To solve this I programmed a <a href="https://en.wikipedia.org/wiki/Genetic_algo
 
 The snippet bellow shows the iterations (generations) of the genetic algorithm. I visualized it with Matplotlib. 
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/775979072?h=ec9eaf3a97&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:80%;height:80%;" title="GeneticAlgo.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/775979072?h=ec9eaf3a97&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:75%;height:75%;" title="GeneticAlgo.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
