@@ -1,6 +1,6 @@
 # Wemat's private Projects
 
-I am intersted in data, programming, solving problems and create something from scratch. The way to do this things is by learning by doing. So here I will link a few selected projects that I worked on. 
+I like data, programming, solving problems and create something from scratch. Learning by doing is my approach. So here are  a few selected projects that I worked on. 
 
 The scope of the projects vary from small (1 day or less), medium (1-3 weeks) to large (several months). 
 
@@ -8,10 +8,12 @@ The scope of the projects vary from small (1 day or less), medium (1-3 weeks) to
 Scope: Medium 
 Tech: Rest API, Python with Dash, Plotly, Pandas,Requests
 
-I use the Strava App when I go for a run or mountain biking. In this project I pull my data from the Rest API and use it to create a sports-analytics dashboard.
+I use the Strava App when I go for a run or mountain biking. In this project I pull the data from the Rest API and use it to create a sports-analytics dashboard.
 
 <a href="https://sport-analytics-wemat.herokuapp.com">Dash Analytics App</a>
 Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a> 
+
+<iframe width="560" height="315" src="https://sport-analytics-wemat.herokuapp.com" title="Analytics" frameborder="0";clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2. Real Time Production Dashboard in Power BI 
 Scope: Small
@@ -26,20 +28,20 @@ The data is generated in real time by a simple simulation of a machine's product
 Scope: Medium
 Tech: Python with Pytorch, Pandas 
 
-descripition and code coming soon. 
+> descripition and code coming soon. 
 
 ## 4. Webapplication - Website and Reservation Tool 
 Scope: Large
 Tech: Python, Django, MySQL, Bootstrap, HTML, CSS
 
-I developed <a href="https://www.tuoretta.ch/">this</a>  Website. Users can create an account and make reservations. There is a calendar that shows the bookings without the names (public) and with the names for the logged in users. 
+I developed <a href="https://www.tuoretta.ch/">this</a>  Website. Users can create an account and make reservations. I created a calendar widget from scratch that shows the availability for the website visitors and the bookings with the names for the logged in users. 
 
 
 ## 5. Mars Lander 
 Scope: Medium-Large
 Tech: Python
 
-I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I begann programming this Site really pushed me to learn more. By now I solved two "very hard-", a buch of "hard-" and altogether around 40 puzzles. 
+I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I begann programming this Site really pushed me to learn more. By now I solved two "very hard-", a buch of "hard-" and altogether around 40 puzzles. Even though I am not a professional developer it is a lot of fun to implement an algorithm from scratch :)
 
 One really interesting puzzle is the Mars Lander. The goal of this puzzle is to safely land a spaceship on Mars. 
 To solve this I programmed a genetic algorithm. But first I had to create a physics simulation of the rockets trajectory. It took me several weeks to make it work and I still will have to optimize the algorithm's speed to crack all the tests :) 
