@@ -1,19 +1,14 @@
 # From Scratch Projects 
 
-I like data, programming, solving problems and to create something from scratch. Learning by doing is my approach. So here are a few selected projects that I worked on. 
-
-The scope of the projects vary from:
-- small (1 day or less)
-- medium (1-3 weeks)
-- large (several months). 
+I like data, programming, solving problems and to create something from scratch. Learning by doing is my approach. So here are a few selected projects that I worked on. The scope of the projects vary from small (1 day or less), medium (1-3 weeks) to large (several months). 
 
 I am open to collaberate on a cool project. Contact me: wemat.web@gmail.com
 
 ## 1. Sports Analytics 
-Scope: Medium\
-Tech: Rest API, Python with Dash, Plotly, Pandas and Requests\
-Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a>\
-The App: <a href="https://sport-analytics-wemat.herokuapp.com">Dash Sports Analytics</a>
+- Scope: Medium
+- Tech: Rest API, Python with Dash, Plotly, Pandas and Requests
+- Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a>
+- The App: <a href="https://sport-analytics-wemat.herokuapp.com">Dash Sports Analytics</a>
 
 I use the Strava App when I go for a run or mountain biking. In this project I pull the data from the Rest API and use it to create a sports-analytics dashboard.
 
@@ -25,8 +20,8 @@ I use the Strava App when I go for a run or mountain biking. In this project I p
 </div>
 
 ## 2. Real Time Production Dashboard in Power BI 
-Scope: Small\
-Tech: Python, Power BI
+- Scope: Small
+- Tech: Python, Power BI
 
 I am using python to push the Data to the REST API of Power BI. 
 The data is generated in real time by a simple simulation of a machine's productivity. 
@@ -35,8 +30,8 @@ The data is generated in real time by a simple simulation of a machine's product
 
 
 ## 3. Pytorch Implementation of the famous Paper 'Attention is all you need'
-Scope: Medium\
-Tech: Python with Pytorch, Pandas 
+- Scope: Medium
+- Tech: Python with Pytorch, Pandas 
 
 > descripition and code coming soon. 
 
@@ -48,9 +43,9 @@ I developed <a href="https://www.tuoretta.ch/">this</a>  website for a holiday a
 
 
 ## 5. Mars Lander 
-Scope: Medium-Large\
-Tech: Python with Numpy and Matplotlib\
-Code:  <a href="https://github.com/wemat/MarsLander/blob/main/mars_lander.py">Github MarsLander</a> 
+- Scope: Medium-Large
+- Tech: Python with Numpy and Matplotlib
+- Code:  <a href="https://github.com/wemat/MarsLander/blob/main/mars_lander.py">Github MarsLander</a> 
 
 I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I begann programming this Site really pushed me to learn more. By now I solved two "very hard-", a buch of "hard-" and altogether around 40 puzzles. Even though I am not a professional developer it is a lot of fun to implement an algorithm from scratch :)
 
