@@ -26,7 +26,7 @@ At the beginning of the project I wanted to get an overview: <a href="https://gi
 - Scope: Small
 - Tech: Python, Power BI
 
-This is a mockup for a real time dashboard that shows the output rate of a machine. I used python to push the Data to the REST API of Power BI. 
+This is a mockup for a real time dashboard that shows the output rate of a machine. I used python to push the data to the REST API of Power BI. 
 The data is generated in real time by a simple simulation of a machine's output. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gaC_FTTJbC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
