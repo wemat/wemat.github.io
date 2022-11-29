@@ -13,7 +13,7 @@ I use the Strava App when I go for a run or mountain biking. In this project I p
 <a href="https://sport-analytics-wemat.herokuapp.com">Dash Analytics App</a>
 Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a> 
 
-<iframe src="https://sport-analytics-wemat.herokuapp.com" width=700 height=600>
+<iframe src="https://sport-analytics-wemat.herokuapp.com" width=900 height=600>
 
 ## 2. Real Time Production Dashboard in Power BI 
 Scope: Small
@@ -34,7 +34,7 @@ Tech: Python with Pytorch, Pandas
 Scope: Large
 Tech: Python, Django, MySQL, Bootstrap, HTML, CSS
 
-I developed <a href="https://www.tuoretta.ch/">this</a>  Website. Users can create an account and make reservations. I created a calendar widget from scratch that shows the availability for the website visitors and the bookings with the names for the logged in users. 
+I developed <a href="https://www.tuoretta.ch/">this</a>  Website. Users can create an account and make reservations. I developed a calendar widget from scratch that shows the availability for the website visitors and the bookings with the names for the logged in users. 
 
 
 ## 5. Mars Lander 
