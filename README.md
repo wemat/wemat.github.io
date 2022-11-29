@@ -13,7 +13,7 @@ I use the Strava App when I go for a run or mountain biking. In this project I p
 <a href="https://sport-analytics-wemat.herokuapp.com">Dash Analytics App</a>
 Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a> 
 
-<iframe width="560" height="315" src="https://sport-analytics-wemat.herokuapp.com" title="Analytics" frameborder="0";clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://sport-analytics-wemat.herokuapp.com" width=700 height=600>
 
 ## 2. Real Time Production Dashboard in Power BI 
 Scope: Small
