@@ -5,7 +5,7 @@ I like data, programming, solving problems and to create something from scratch.
 The scope of the projects vary from small (1 day or less), medium (1-3 weeks) to large (several months). 
 
 ## 1. Sports Analytics 
-Scope: Medium\ 
+Scope: Medium\
 Tech: Rest API, Python with Dash, Plotly, Pandas,Requests
 
 I use the Strava App when I go for a run or mountain biking. In this project I pull the data from the Rest API and use it to create a sports-analytics dashboard.
