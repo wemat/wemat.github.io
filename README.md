@@ -10,7 +10,7 @@ I am open to collaberate on a cool project. Contact me: wemat.web@gmail.com
 - Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a>
 - The App: <a href="https://sport-analytics-wemat.herokuapp.com">Dash Sports Analytics</a>
 
-I use Strava when I go for a run or mountain biking. In this project I pull the data from the Rest API and create a sports-analytics dashboard with Dash. My opinion of Dash? In Power BI (i worked a lot with it) you can click together a good looking dashboard fairly quickly. With Dash it takes a while to set up something seemingly simple as this project here. There is no GUI. Everything has to be coded. But then again in Power BI as soon as the requirements are a bit non-standard, it can become punishing. With Dash we have all the power of python and it's great libaries. So even complex machine-learning use-cases can be combined with Dash seamlessly. 
+I use Strava when I go for a run or mountain biking. In this project I pulled the data from the Rest API and developed a dashboard with Dash. My opinion of Dash? In Power BI (I have worked a lot with it) you can click together a good looking dashboard fairly quickly. With Dash it takes a while to set up something seemingly simple (like this project here). There is no GUI. Everything has to be coded. But then again in Power BI as soon as the requirements are a bit non-standard, it can become punishing. With Dash we have all the power of python and it's great libaries. So even complex machine-learning use-cases can be combined with Dash seamlessly. 
 
 <div style="padding-bottom:65%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
@@ -23,8 +23,8 @@ I use Strava when I go for a run or mountain biking. In this project I pull the 
 - Scope: Small
 - Tech: Python, Power BI
 
-I am using python to push the Data to the REST API of Power BI. 
-The data is generated in real time by a simple simulation of a machine's productivity. 
+This is a mockup for a real time dashboard that shows the output rate of a machine. I am using python to push the Data to the REST API of Power BI. 
+The data is generated in real time by a simple simulation of a machine's output. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gaC_FTTJbC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -33,7 +33,7 @@ The data is generated in real time by a simple simulation of a machine's product
 - Scope: Medium
 - Tech: Python with Pytorch, Pandas 
 
-> descripition and code coming soon. 
+> descripition and code are coming soon. 
 
 ## 4. Webapplication - Website and Reservation Tool 
 Scope: Large\
