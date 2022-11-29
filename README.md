@@ -1,8 +1,8 @@
 # Projects from Scratch
 
-I like data, programming, solving problems and to create something from scratch. Learning by doing is my approach. So here are a few selected projects that I worked on. The scope of the projects vary from *small* (1 day or less), *medium* (1-3 weeks) to *large* (several months). 
+I like data, programming and solving problems. Learning by doing is my preferred approach. So, here are a few selected projects that I worked on. The scope of the projects varies from *small* (1 day or less) to *medium* (1-3 weeks) and *large* (several months). 
 
-I am open to collaberate on a cool project. Contact me: wemat.web@gmail.com
+If you have ideas for cool projects, I am up for collaberation. Contact me at: wemat.web@gmail.com
 
 ## 1. Sports Analytics 
 - Scope: Medium
@@ -10,9 +10,9 @@ I am open to collaberate on a cool project. Contact me: wemat.web@gmail.com
 - Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a>
 - The App: <a href="https://sport-analytics-wemat.herokuapp.com">Dash Sports Analytics</a>
 
-I use Strava when I go for a run or mountain biking. In this project I pulled the data from the Rest API and developed a dashboard with Dash. My opinion of Dash? In Power BI (I have worked a lot with it) you can click together a good looking dashboard fairly quickly. With Dash it takes a while to set up something seemingly simple (like this project here). There is no GUI. Everything has to be coded. But then again in Power BI as soon as the requirements are a bit non-standard, it can become punishing. With Dash we have all the power of python and it's great libaries. So even complex machine-learning use-cases can be combined with Dash seamlessly. 
+I use Strava when I go for a run or mountain biking. In this project, I connected to Strava's Rest API and developed a dashboard with Dash. My opinion of Dash? In Power BI (I've worked with it a lot) you can click together a nice looking dashboard fairly quickly. With Dash it takes a while to set up something seemingly simple (like this project here). There is no GUI. Everything has to be coded. But then again, in Power BI, as soon as the requirements are a bit non-standard, it can become punishing. With Dash we have all the power of python and it's great libraries. So even complex machine-learning use-cases can be combined with Dash seamlessly. 
 
-At the beginning of the project I wanted to get an overview. <a href="https://github.com/wemat/StravaAnalytics/blob/main/analytics/strava_api.ipynb">Here</a> is a jupyter notebook with the explanatory data analysis.
+At the beginning of the project I wanted to get an overview: <a href="https://github.com/wemat/StravaAnalytics/blob/main/analytics/strava_api.ipynb">Here</a> is a jupyter notebook with the explanatory data analysis.
 
 <div style="padding-bottom:65%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
@@ -26,7 +26,7 @@ At the beginning of the project I wanted to get an overview. <a href="https://gi
 - Scope: Small
 - Tech: Python, Power BI
 
-This is a mockup for a real time dashboard that shows the output rate of a machine. I am using python to push the Data to the REST API of Power BI. 
+This is a mockup for a real time dashboard that shows the output rate of a machine. I used python to push the Data to the REST API of Power BI. 
 The data is generated in real time by a simple simulation of a machine's output. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gaC_FTTJbC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,14 +36,14 @@ The data is generated in real time by a simple simulation of a machine's output.
 - Scope: Medium
 - Tech: Python with Pytorch, Pandas 
 
-> descripition and code are coming soon. 
+> Descripition and code are coming soon. 
 
 
 ## 4. Django Webapplication: Website and Reservation Tool 
 Scope: Large\
 Tech: Django, Python, MySQL, Bootstrap, HTML, CSS
 
-I developed <a href="https://www.tuoretta.ch/">this</a>  website for a holiday appartment. Users can create an account and make reservations. I developed a calendar widget from scratch that shows the availability to the website visitors and the bookings with the names to the logged in users. 
+I developed <a href="https://www.tuoretta.ch/">this</a>  website for a holiday appartment where users can create an account and make reservations. I created a calendar widget from scratch which shows the availability to website visitors. Logged in users also see the concrete bookings in the calendar.
 
 
 ## 5. Mars Lander 
@@ -51,10 +51,10 @@ I developed <a href="https://www.tuoretta.ch/">this</a>  website for a holiday a
 - Tech: Python with Numpy and Matplotlib
 - Code:  <a href="https://github.com/wemat/MarsLander/blob/main/mars_lander.py">Github MarsLander</a> 
 
-I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I begann programming this Site really pushed me to learn more. By now I solved two "very hard-", a buch of "hard-" and altogether around 40 puzzles. Even though I am not a professional developer it is a lot of fun to implement an algorithm from scratch :)
+I love <a href="https://www.codingame.com/start">CodinGame</a>. (find me on CG: wemat) Soon after I began programming this site really pushed me to learn more. By now I solved two "very hard-", a bunch of "hard-" and altogether around 40 puzzles. Even though I am not a professional developer it is a lot of fun to implement an algorithm from scratch. :)
 
-One really interesting puzzle is the Mars Lander. The goal of this puzzle is to safely land a spaceship on Mars. 
-To solve this I programmed a <a href="https://en.wikipedia.org/wiki/Genetic_algorithm">genetic algorithm</a>. But first I had to create a physics simulation of the rockets trajectory. It took me several weeks to make it work and I still will have to optimize the algorithm's speed to crack all the tests :) 
+One really interesting puzzle is the *Mars Lander*. The goal of this puzzle is to safely land a spaceship on Mars. 
+To solve this I programmed a <a href="https://en.wikipedia.org/wiki/Genetic_algorithm">genetic algorithm</a>. But first I had to create a physics simulation of the rockets trajectory. It took me several weeks to make it work and I still have to optimize the algorithm's speed to crack all the tests on CG. :) 
 
 The snippet bellow shows the iterations (generations) of the genetic algorithm. I visualized it with Matplotlib. 
 
