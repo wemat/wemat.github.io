@@ -1,10 +1,10 @@
-# Projects from Scratch
+# Projects from Scratch 👨‍💻
 
 I like data, programming and solving problems. Learning by doing is my preferred approach. So, here are a few selected projects that I worked on. The scope of the projects varies from *small* (1 day or less) to *medium* (1-3 weeks) and *large* (several months). 
 
 If you have ideas for cool projects, I am up for collaberation. Contact me at: wemat.web@gmail.com
 
-## 1. Sports Analytics 
+## 1. Sports Analytics 🏃‍♂️
 - Scope: Medium
 - Tech: Rest API, Python with Dash, Plotly, Pandas and Requests
 - Code: <a href="https://github.com/wemat/StravaDash">Github StavaDash</a>
@@ -22,7 +22,7 @@ At the beginning of the project I wanted to get an overview: <a href="https://gi
 </div>
 
 
-## 2. Real Time Production Dashboard in Power BI 
+## 2. 🏭 Real Time Production Dashboard in Power BI 
 - Scope: Small
 - Tech: Python, Power BI
 
@@ -32,21 +32,25 @@ The data is generated in real time by a simple simulation of a machine's output.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gaC_FTTJbC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 3. Pytorch Implementation of the famous Paper 'Attention is all you need'
+## 3. 🔥 Pytorch Implementation of the Paper *Attention is all you need*
+<img src="https://pbs.twimg.com/media/DCYHlQCUMAAsLhG?format=jpg&name=small" style="width:512px;height:384px;" alt="Dwight's Attention">
+
 - Scope: Medium
-- Tech: Python with Pytorch, Pandas 
+- Tech: Python with Pytorch
+- Commentated Code:  <a href="https://www.kaggle.com/code/soupmonster/attention-is-all-you-need-pytorch">Kaggle Notebook</a> 
 
-> Descripition and code are coming soon. 
+Have you ever wondered how language translation tools such as Deepl got so damn good in the last few years? In my opinion *Attention is all you need* is THE game changer that made this possible. The paper, written in 2017 had a significant impact on NLP and deep learning and paved the way for later breakthroughs such as BERT or GPT-3. The model of 2017 is sometimes refered to as the original transformer.
 
+To test my implementation I used a dataset with ~135k French-English sentence pairs and trained my transformer to translate from French to English. Check the Kaggle notebook to get an intuition about how that works!
 
-## 4. Django Webapplication: Website and Reservation Tool 
+## 4. Django Web Application: Website and Reservation Tool  ⛷
 Scope: Large\
 Tech: Django, Python, MySQL, Bootstrap, HTML, CSS
 
-I developed <a href="https://www.tuoretta.ch/">this</a>  website for a holiday appartment where users can create an account and make reservations. I created a calendar widget from scratch which shows the availability to website visitors. Logged in users also see the concrete bookings in the calendar.
+I developed <a href="https://www.tuoretta.ch/">this</a>  website for a holiday appartment (in Ardez,Lower-Engadin) where users can create an account and make reservations. I created a calendar widget from scratch which shows the availability to website visitors. Logged in users also see the concrete bookings in the calendar.
 
 
-## 5. Mars Lander 
+## 5. 🛸 Mars Lander 
 - Scope: Medium-Large
 - Tech: Python with Numpy and Matplotlib
 - Code:  <a href="https://github.com/wemat/MarsLander/blob/main/mars_lander.py">Github MarsLander</a> 
